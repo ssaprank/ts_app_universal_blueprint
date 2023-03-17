@@ -1,15 +1,25 @@
-# 🚀 Welcome to your new awesome project!
+## A little bit of everything
 
-This project has been created using **webpack-cli**, you can now run
+### What's preinstalled
+
+- eslint
+- prettier
+- webpack with loaders for ts(x), scss and static files
+- react 18
+- react-router and some routes
+
+It is up to you to configure linters, loaders and other utilities to your pleasure =)
+
+### Commands
+
+1. Install dependencies:
 
 ```
-npm run build
+npm i
 ```
 
-or
+2. Run dev server:
 
 ```
-yarn build
+npm run serve
 ```
-
-to bundle your application

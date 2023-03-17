@@ -5,6 +5,8 @@ import Header from './Components/Header/Header';
 import AboutUs from './Pages/AboutUs/AboutUs';
 import NotFound from './Pages/NotFound/NotFound';
 
+import './App.scss';
+
 const Layout = () => (
   <div className="app-container">
     <Header />
